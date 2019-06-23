@@ -1,3 +1,9 @@
 body {
-    background: thistle;
+    background:whitesmoke;
+}
+.container{
+    height: 300px;
+    width: 450px;
+    border:3px solid black;
+    padding: 8px;
 }
