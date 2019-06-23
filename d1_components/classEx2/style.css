@@ -1,0 +1,37 @@
+body {
+    background:whitesmoke;
+}
+.box{
+    margin: 4px;
+    padding: 0;
+    display:flex;
+align-items: center;
+justify-content: center;
+flex-direction: column;
+}
+.one{
+background-color: lightgreen;
+width:500px;
+height: 300px;
+
+}
+.two{
+    background:lightblue;
+    width: 85%;
+    height: 85%;
+}
+.three{
+    background:lightpink;
+    width: 85%;
+    height: 85%;
+     /* padding: 3%; */
+  
+}
+.four{
+    /* margin:4%; */
+    /* margin-bottom:4%; */
+   
+    background:rgb(226, 165, 226);
+    width: 50%;
+    height: 25%;
+}
