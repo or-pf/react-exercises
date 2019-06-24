@@ -38,7 +38,7 @@ class Q2 extends React.Component {
 class Q2Title extends React.Component {
     render() {
         return (<div className="Q2Title">
-            <h3>What is your favoutite front end feature/ topic?</h3>
+            <h3>What is your favourite front end feature/ topic?</h3>
             <Q2Input />
         </div>);
     }
