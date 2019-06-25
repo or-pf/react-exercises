@@ -1,0 +1,22 @@
+body {
+    background: white;
+}
+.box{
+    height:100px;
+    width:100px;
+    text-align: center;
+    margin: 10px; 
+}
+.pink{
+background-color: lightpink;
+}
+.green{
+    background-color: lightgreen;
+
+}
+.blue{
+    background-color: lightblue;
+}
+.purple{
+    background-color: lightslategray;
+}
