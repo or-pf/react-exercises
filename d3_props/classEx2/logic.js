@@ -5,9 +5,6 @@ class Box extends React.Component {
     render() {
       
         let className= this.props.color +" box";
-        
-
-
         return <div className={className}>{this.props.text}</div>;
     }
 }
