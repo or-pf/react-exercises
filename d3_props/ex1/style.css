@@ -1,0 +1,49 @@
+
+.page{
+    padding-top: 30px;
+    width:100vw;
+    height: 100vh;
+    background-color: #9494a5;
+    display:flex; 
+    align-items: center;
+    justify-content: space-around;
+}
+.item{
+   display: flex;
+   flex-direction: column;
+   justify-content: space-around;
+    height:80%;
+    width:28%;
+    background-color: #eff4fa;  
+}
+.icon{
+    height:inherit;
+    max-height: 300px;
+    width:100%;
+    min-width:30px;
+}
+h3, p{
+    font-family: cursive;
+    text-align: center;
+}
+.breadCrumbs{
+    display: flex;
+    justify-content: space-around;
+}
+.breadCrumbs div{
+    height:10px;
+    width:10px;
+    border-radius:50%;
+    background:lightgrey;
+}
+#a{
+    background: grey;
+    align-self:flex-start;
+}
+#b{
+    background: grey;
+}
+#c{
+    background: grey;
+    justify-self:end;
+}
