@@ -36,14 +36,8 @@ h3, p{
     border-radius:50%;
     background:lightgrey;
 }
-#a{
-    background: grey;
+.breadCrumbs div.active{
+    background: rgb(100, 96, 96);
     align-self:flex-start;
 }
-#b{
-    background: grey;
-}
-#c{
-    background: grey;
-    justify-self:end;
-}
+
