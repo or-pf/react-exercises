@@ -1,0 +1,17 @@
+
+.nav{
+    border: 2px solid gray;
+    background-color: aqua;
+    padding: 5px;
+}
+span{
+    display: inline-block;
+    margin: 5px;
+    padding:5px;
+    border:1px solid red;
+    position: relative;
+}
+.notification{
+border-radius: 50%;
+background-color: yellow;
+}
