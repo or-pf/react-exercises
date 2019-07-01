@@ -1,0 +1,36 @@
+body {
+    background: white;
+}
+div{
+    display: flex;
+    align-self: center;
+    justify-content: center;
+}
+.frame{
+    height:300px;
+    width:550px;
+    display: flex;
+    border:1px solid black;
+}
+.big{
+    height:85%;
+    width: 85%;
+    flex-direction: column;
+}
+.small{
+    margin: 10px;  
+    height:35%;
+    width: 60%;
+}
+.pink{
+    background-color: lightpink;
+}
+.green{
+    background-color: lightgreen;
+}
+.blue{
+    background-color: lightblue;
+}
+.purple{
+    background-color:rgb(226, 165, 226);;
+}

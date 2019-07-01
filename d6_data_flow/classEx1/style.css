@@ -1,0 +1,9 @@
+body {
+    background: thistle;
+}
+.label{
+    border:1px solid black;
+    height: 30px;
+    display: inline-block;
+    width: 80px;
+}
